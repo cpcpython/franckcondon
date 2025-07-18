@@ -1,11 +1,3 @@
-gpkmohan_mbcet@general1gpk:~/Numerov/Morse/MorseV1-H2/ExtendR/nanohub/Github/RealTest$ 
-gpkmohan_mbcet@general1gpk:~/Numerov/Morse/MorseV1-H2/ExtendR/nanohub/Github/RealTest$ 
-gpkmohan_mbcet@general1gpk:~/Numerov/Morse/MorseV1-H2/ExtendR/nanohub/Github/RealTest$ 
-gpkmohan_mbcet@general1gpk:~/Numerov/Morse/MorseV1-H2/ExtendR/nanohub/Github/RealTest$ 
-gpkmohan_mbcet@general1gpk:~/Numerov/Morse/MorseV1-H2/ExtendR/nanohub/Github/RealTest$ 
-gpkmohan_mbcet@general1gpk:~/Numerov/Morse/MorseV1-H2/ExtendR/nanohub/Github/RealTest$ 
-gpkmohan_mbcet@general1gpk:~/Numerov/Morse/MorseV1-H2/ExtendR/nanohub/Github/RealTest$ 
-gpkmohan_mbcet@general1gpk:~/Numerov/Morse/MorseV1-H2/ExtendR/nanohub/Github/RealTest$ cat ExcitedNumerov.v1.py 
 #!/usr/bin/env python
 
 #%matplotlib ipympl
